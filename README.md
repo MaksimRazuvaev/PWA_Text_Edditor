@@ -39,7 +39,7 @@ This app is intend to be used by Heroku link bellow.
 
 ## Link to deployed application
 
-
+https://pwa-text-edditor.herokuapp.com/
 
 ## Credits
 
