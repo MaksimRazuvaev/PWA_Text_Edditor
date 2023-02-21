@@ -50,4 +50,8 @@ N/A
 MIT License according to the LICENSE file in the repo.
 
 ## Resources
-- 
+- https://www.npmjs.com/package/@babel/core
+- https://www.npmjs.com/package/webpack
+- https://www.npmjs.com/package/concurrently
+- https://www.npmjs.com/package/idb
+- https://www.npmjs.com/package/http-server
