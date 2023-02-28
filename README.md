@@ -41,6 +41,24 @@ This app is intend to be used by Heroku link bellow.
 
 https://pwa-text-edditor.herokuapp.com/
 
+## Technologies
+
+Progressive web apps (PWAs)
+Webpack 
+AG Grid
+Css-loader npm package
+Babel JavaScript compiler 
+HtmlWebpackPlugin
+DevServer
+Service Worker API
+Cache
+Concurrently npm package
+IndexedDB API
+IndexedDB npm package
+manifest.json npm package
+webpack-pwa-manifest npm package
+
+
 ## Credits
 
 N/A
